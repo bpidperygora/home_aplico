@@ -6,6 +6,8 @@ function createElement() {
   return app;
 }
 
+console.log('git work');
+
 function render() {
   document.body.appendChild(createElement());
 }
